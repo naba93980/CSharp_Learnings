@@ -1,0 +1,15 @@
+.net framework - 4.8 lts
+.net core - upto(3.1) -> renamed to .net - 6.0 lts
+mono
+unity
+xamarin 
+All these frameworks above have its own abstraction layer
+
+All language c#, f#, visual basic compile to common intermediate language (CIL) & then JIT compiler compiles to machine code to be able to run in Common Language Runtime(CLR)
+
+
+.net standard was to bridge all the gap between the above frameworks having separate abstraction layers
+
+
+
+from .net 6 all the abstraction layers are collapsed into one
