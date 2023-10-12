@@ -13,3 +13,12 @@ All language c#, f#, visual basic compile to common intermediate language (CIL) 
 
 
 from .net 6 all the abstraction layers are collapsed into one
+
+jar in java similar to assembly(.dll, .exe) in c#
+
+use dotnet --info  to get details of runtime environment, host, .NET sdk and runtimes installed
+
+dotnet commands usage: 
+
+    Usage: dotnet [runtime-options] [path-to-application(.dll file)] [arguments] -> Execute a .NET application
+    Usage: dotnet [sdk-options] [command] [command-options] [arguments] -> Execute a .NET SDK command
