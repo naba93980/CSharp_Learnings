@@ -1,9 +1,9 @@
-﻿namespace Non_Primitive_Types
+﻿namespace Non_Primitive_Types.Class
 {
     class Person
     {
-        public String firstName;
-        public String lastName;
+        public string firstName;
+        public string lastName;
 
         public void Introduce()
         {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Non_Primitive_Types.Math
+namespace Non_Primitive_Types.Class.Math
 {
     class Calculator
     {

@@ -1,4 +1,5 @@
-﻿using Non_Primitive_Types.Math;
+﻿using Non_Primitive_Types.Class;
+using Non_Primitive_Types.Class.Math;
 
 namespace Non_Primitive_Types
 {
