@@ -1,0 +1,5 @@
+In Java/C#, the String pool is a storage area in the Java heap where string literals are stored. It's also known as the String Intern Pool or String Constant Pool. The String class privately maintains the String pool, which is empty by default. 
+
+The intern() method of the String class returns a string object from the string pool. If a string is already present in the string pool, the intern() method returns a reference to that object. This is known as string interning. 
+
+When you create a new string literal from the String class, the JVM will first check if the string already exists in the string pool. If it does, the JVM will return a reference to the existing string object, rather than creating a new object. 
