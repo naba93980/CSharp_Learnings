@@ -8,6 +8,9 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello, World!");
 
+            Loop.loop();
+            RandomDemo.runRandom();
+
             checked
             {
                 byte n = 255;
@@ -25,7 +28,7 @@ namespace HelloWorld
 
                 // unchecked keyword makes sure not to do overflow checking
                 n = unchecked((byte)(n + 1));
-                Console.WriteLine(n);
+                Console.WriteLine(n); 
             }
         }
     }
