@@ -7,6 +7,9 @@
             string[] s = new string[] { "naba", "modak" };
             Console.WriteLine(s[0]);
             Console.WriteLine(s[1]);
+
+            Types.rectangular();
+            Types.jagged();
         }
     }
 }
