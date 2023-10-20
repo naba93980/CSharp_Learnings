@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="runtime.win-x64.Microsoft.NETCore.ILDAsm" Version="7.0.0" />
+  </ItemGroup>
+
 </Project>
