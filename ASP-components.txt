@@ -1,0 +1,18 @@
+Four programming models you can use to create ASP.NET web applications: 
+
+1. ASP.NET Web Forms 
+2. ASP.NET MVC 
+3. ASP.NET Web Pages 
+4. ASP.NET Single Page Applications.
+
+
+ASP - WebPage
+
+Razor Pages (MVVM model) -- modern version of WebPage
+
+SignalR - Websocket
+
+ASP.NET Core - WEB MVC & WEB API, also has Middleware
+
+BLAZER - SPA (uses C# in place of JS)
+

@@ -24,3 +24,6 @@
         }
     }
 }
+
+// this class follows single responsibility principle as it deals only with processing the orders
+// also it uses dependency injection technique for compostion design concept
